@@ -16,14 +16,14 @@
 + [Apache Jena](https://jena.apache.org/)
 + [gStore](http://www.gstore-pku.com/pcsite/index.html)
 
-### Blogs
+### Blog
 
 + :star:[知识图谱入门笔记](https://zhuanlan.zhihu.com/c_211846834)
 
 + :star:[揭开知识库问答KB-QA的面纱](https://zhuanlan.zhihu.com/p/27141786)
 + [书籍电影类知识图谱问答](https://zhuanlan.zhihu.com/p/77594908)
 
-### Projects
+### Project
 
 + :star:[Author: duterscmy](https://github.com/duterscmy), [CCKS2019 CKBQA, PKUBASE, 中文知识库问答代码](https://github.com/duterscmy/ccks2019-ckbqa-4th-codes)
 
