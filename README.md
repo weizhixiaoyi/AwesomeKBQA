@@ -35,7 +35,9 @@
 
 ### Competition
 
-+ [CCKS2019 中文知识图谱问答](https://www.biendata.com/competition/ccks_2019_6/)
++ [CCKS2019中文知识图谱问答](https://www.biendata.com/competition/ccks_2019_6/)
++ [LIC2019知识驱动对话](http://lic2019.ccf.org.cn/talk)
++ [瑞金医院MMC人工智能辅助构建知识图谱大赛](https://tianchi.aliyun.com/competition/entrance/231687/introduction)
 
 ### Robot
 
